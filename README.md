@@ -9,7 +9,7 @@ Contributed by Leideng Shi,Juan Zhang.
 ### Installation
 Install the dependencies.
 
-The code was tested on Ubuntu 20.04.6, with Python 3.7 and PyTorch v1.21.1.
+The code was tested on Ubuntu 20.04.6, with Python 3.7 and PyTorch v1.12.1.
 
 1. Clone this repository.
 
@@ -22,10 +22,10 @@ The code was tested on Ubuntu 20.04.6, with Python 3.7 and PyTorch v1.21.1.
    conda create -n MQN python==3.7
    conda activate MQN
     ~~~
-3. Install pytorch v1.21.1 (CUDA 12.2 is used in this example).
+3. Install pytorch v1.12.1 (CUDA 10.2 is used in this example).
 
     ~~~
-    conda install pytorch=0.4.1 cudatoolkit=9.0 torchvision -c pytorch
+    conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=10.2 -c pytorch
     ~~~
     
 4. Install the requirements.
@@ -37,10 +37,7 @@ The code was tested on Ubuntu 20.04.6, with Python 3.7 and PyTorch v1.21.1.
 
 
 ## Data preparation
-
 ### RRSISI-D
-
-
 ## Training
 ## Testing
 ## Acknowledgements
