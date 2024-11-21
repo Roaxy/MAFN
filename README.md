@@ -1,8 +1,5 @@
 # Multimodal-Aware Fusion Network For Referring Remote Sensing Image Segmentation
-
-Code for our paper "Multimodal-Aware Fusion Network For Referring Remote Sensing Image Segmentation."
-
-Contributed by Leideng Shi,Juan Zhang.
+Code and data will release soon.
 
 ## Getting Started
 
