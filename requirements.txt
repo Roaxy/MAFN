@@ -8,7 +8,7 @@ ftfy
 regex
 scipy
 scikit-image
-pycocotools==2.0.2
+pycocotools==2.0.7
 opencv-python==4.5.3.56
 tokenizers==0.8.1rc1
 h5py
