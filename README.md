@@ -38,7 +38,7 @@ The code was tested on Ubuntu 20.04.6, with Python 3.7 and PyTorch v1.12.1.
 
 ## Datasets
 ### RRSIS-D
-RRSIS-D dataset can be downloaded [here](https://drive.google.com/open?id=1QZcJmGVlF9f4h-XLWe9Gkmnmj2z1gSnk), and then follow [RMSIN]() datasets usage. The files and make
+RRSIS-D dataset can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A?usp=sharing) or [Baidu Netdisk](https://pan.baidu.com/s/1yZatV2w_bSXIP9QBv2lCrA?pwd=sjoe), and then follow [RMSIN](https://github.com/Lsan2401/RMSIN) datasets usage. The files and make
 directories as follows.
 ```
 $DATA_PATH
