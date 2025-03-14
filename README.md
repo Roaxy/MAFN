@@ -1,5 +1,8 @@
 # Multimodal-Aware Fusion Network For Referring Remote Sensing Image Segmentation
-Code and data will release soon.
+Code for our GRSL 2025 paper"[Multimodal-Aware Fusion Network for Referring Remote Sensing Image Segmentation]"
+![Pipeline Image](pipeline.jpg)
+
+Contributed by Leideng Shi, Juan Zhang*.
 
 ## Getting Started
 
