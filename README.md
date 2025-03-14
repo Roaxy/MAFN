@@ -66,8 +66,8 @@ sh ./test.sh
 ```
 You may modify codes in `test.sh:11` to use `val` instead of `test`. By default, we set the split to `test`.
 ##  The validation on the RRSIS-D dataset
-|         | P@0.5 | P@0.6 | P@0.7 | P@0.8 | P@0.9 | oIoU | mIoU |
-|:--------|:--------:| :---: | :---: | :---: |:-------:|:-----------:| :---: |
+|         | P@0.5 | P@0.6 | P@0.7 | P@0.8 | P@0.9 | oIoU | mIoU | Download |
+|:--------|:--------:| :---: | :---: | :---: |:-------:|:-----------:| :---: || :---: |
 | MAFN |  76.32   | 69.31 | 58.33 | 44.54 |  24.71  |  78.33  | 66.03 |[model](https://drive.google.com/file/d/1q3JuEzICoppij3Wce9QfwZ1k9a4HZ9or/view?usp=drive_link) |
 
 ## Acknowledgements
