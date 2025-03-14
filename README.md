@@ -52,9 +52,8 @@ $DATA_PATH
 ```
 finishing downloading, unpack the tarball (`hico_20160224_det.tar.gz`) to the `data` directory.
 ## Pre-trained model
-Download the pre-trained classification weights of the Swin Transformer for [SwinT_base](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22k.pth)
+Download [the pre-trained classification weights of the Swin Transformer](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22k.pth) for training to initialize the model
 , and put the `pth` file in `./pretrained_weights`.
-These weights are needed for training to initialize the model.
 ## Training
 After the preparation, you can start training with the following commands. We use DistributedDataParallel from PyTorch for training. To run on 2 GPUs (with IDs 0, 1) on a single node:
 ```
