@@ -1,5 +1,6 @@
 # Multimodal-Aware Fusion Network For Referring Remote Sensing Image Segmentation
 Code for our GRSL 2025 paper"[Multimodal-Aware Fusion Network for Referring Remote Sensing Image Segmentation]()"
+
 Contributed by Leideng Shi, Juan Zhang*.
 
 ![Pipeline Image](MAFN.png)
