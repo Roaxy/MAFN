@@ -13,8 +13,3 @@ python -m torch.distributed.launch\
     --debug \
     --output_dir ${EXP_DIR} \
     2>&1 | tee ./output
-
-    ##backbone1 gemimi
-    ##backbone3 corr
-    #backbone4  corr+gemimi
-    ##backbone5  clip text_encode
