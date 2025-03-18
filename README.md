@@ -69,7 +69,7 @@ You may modify codes in `test.sh:11` to use `val` instead of `test`. By default,
 ##  The validation on the RRSIS-D dataset
 |         | P@0.5 | P@0.6 | P@0.7 | P@0.8 | P@0.9 | oIoU | mIoU | Download |
 |:--------|:---:| :---: | :---: | :---: |:---:|:---:| :---: | :---: |
-| MAFN |  76.32   | 69.31 | 58.33 | 44.54 |  24.71  |  78.33  | 66.03 |[model]() |
+| MAFN |  76.32   | 69.31 | 58.33 | 44.54 |  24.71  |  78.33  | 66.03 |[model](https://drive.google.com/file/d/1GGpRtzy-SVLO_wR8PVr42WQvCiGHG9mU/view?usp=drive_link) |
 
 ## Acknowledgements
 Code in this repository is built on [RMSIN](https://github.com/Lsan2401/RMSIN). We'd like to thank the authors for open sourcing their project.
