@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 from .mask_predictor import SimpleDecoding
-from .backbone4 import MultiModalSwinTransformer
+from .backbone import MultiModalSwinTransformer
 from ._utils import LAVT, LAVTOne
 
 ## 0+1 (best)
