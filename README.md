@@ -56,7 +56,7 @@ finishing downloading, unpack the tarball (`hico_20160224_det.tar.gz`) to the `d
 Download [the pre-trained classification weights of the Swin Transformer](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22k.pth) for training to initialize the model
 , and put the `pth` file in `./pretrained_weights`.
 
-Download [the pre-trained bert-base-uncased weights of the Bert](https://drive.google.com/drive/folders/1WMmFbBgzc7v8tcyep0FWyom70cvMV0so?usp=sharing) for training to initialize the model
+Download [the pre-trained bert-base-uncased weights of the BERT](https://drive.google.com/drive/folders/1WMmFbBgzc7v8tcyep0FWyom70cvMV0so?usp=sharing) for training to initialize the model
 , and put the files in `./MAFN/bert-base-uncased`
 ## Training
 After the preparation, you can start training with the following commands. We use DistributedDataParallel from PyTorch for training. To run on 2 GPUs (with IDs 0, 1) on a single node:
