@@ -57,7 +57,7 @@ Download [the pre-trained classification weights of the Swin Transformer](https:
 , and put the `pth` file in `./pretrained_weights`.
 
 Download [the pre-trained bert-base-uncased weights of the Bert](https://drive.google.com/drive/folders/1WMmFbBgzc7v8tcyep0FWyom70cvMV0so?usp=sharing) for training to initialize the model
-, and put the file in `./MAFN`
+, and put the files in `./MAFN/bert-base-uncased`
 ## Training
 After the preparation, you can start training with the following commands. We use DistributedDataParallel from PyTorch for training. To run on 2 GPUs (with IDs 0, 1) on a single node:
 ```
